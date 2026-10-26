@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Md Aminul Islam</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<img src="https://i.ibb.co.com/LXMQ83Jy/1516f289-e6bc-48db-a749-860603ca9414.png" alt="1516f289 e6bc 48db a749 860603ca9414" border="0">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devaminul791&label=Profile%20views&color=0e75b6&style=flat" alt="devaminul791" /> </p>
 
