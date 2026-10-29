@@ -8,13 +8,13 @@
 
 - 🔭 I’m currently working on **Freelancer**
 
-- 🌱 I’m currently learning **PHP,JS,pigma**
+- 🌱 I’m currently learning ** PHP, JS, Figma **
 
-- 🤝 I’m looking for help with **Functional web designed developer**
+- 🤝 I’m looking for help with **Responsive Web design and development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/devaminul791](https://github.com/devaminul791)
 
-- 💬 Ask me about **Web design, development and wordpress**
+- 💬 Ask me about **WordPress customization, HTML, CSS**
 
 - 📫 How to reach me **devaminul79@gmail.com**
 
