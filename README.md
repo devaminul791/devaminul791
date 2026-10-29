@@ -6,17 +6,17 @@
 
 <p align="left"> <a href="https://twitter.com/devaminul79" target="blank"><img src="https://img.shields.io/twitter/follow/devaminul79?logo=twitter&style=for-the-badge" alt="devaminul79" /></a> </p>
 
--  I’m currently working on **Freelancer**
+-  I’m currently working on ** Freelancer **
 
 -  I’m currently learning ** PHP, JS, Figma **
 
--  I’m looking for help with **Responsive Web design and development**
+-  I’m looking for help with ** Responsive Web design and development **
 
 -  All of my projects are available at [https://github.com/devaminul791](https://github.com/devaminul791)
 
--  Ask me about **WordPress customization, HTML, CSS**
+-  Ask me about ** WordPress customization, HTML, CSS **
 
--  How to reach me **devaminul79@gmail.com**
+-  How to reach me ** devaminul79@gmail.com **
 
 
 <h3 align="left">Connect with me:</h3>
