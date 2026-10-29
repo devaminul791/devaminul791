@@ -1,5 +1,5 @@
 <img src="https://i.ibb.co.com/LXMQ83Jy/1516f289-e6bc-48db-a749-860603ca9414.png" alt="1516f289 e6bc 48db a749 860603ca9414" border="0">
-
+<h3 align="center">Professional Web Designer, Developer & WordPress Expert | Helping Businesses and Creators Build Stunning, Functional Websites</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devaminul791&label=Profile%20views&color=0e75b6&style=flat" alt="devaminul791" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devaminul791" alt="devaminul791" /></a> </p>
